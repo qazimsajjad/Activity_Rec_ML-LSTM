@@ -10,6 +10,11 @@ Demo Results
 https://www.youtube.com/watch?v=x58jSG8IvXQ&t=74s
 https://www.youtube.com/watch?v=cyhIVOnEAMg&t=6s 
 
+Get Started
+=========
+
+    $ git clone ](https://github.com/qazimsajjad/Activity_Rec_ML-LSTM.git
+
 Compiling
 =========
 
